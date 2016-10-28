@@ -1,0 +1,6 @@
+{
+  "name": "Work",
+  "tagline": "This is a public blog, intended to be used only by myself",
+  "body": "# work\r\nThis is a public blog, intended to be used only by myself\r\n\r\n# TODO\r\n## \r\n1. BWT\r\n2. Theoretical Justification for BWT\r\n3. Read about the Channel capacity achieving codes (Modern coding theory lectures)\r\n4. Probabilistic graphical models stuff etc. \r\n\r\nThe other LZ based work?\r\n1, Understand the existing LZ77 works for finite sequences?  \r\n2. Understand the paper.\r\n\r\n\r\nWant to understand the random access work?\r\n1. Expander Graphs\r\n2. Expander Codes\r\n3. Read the paper\r\n4. Understand the paper\r\n\r\nExperiment on the Video Compression part (Neural Networks)\r\n1. Fiddle around with TensorFlow\r\n2. Experiment with the Google compressor\r\n3. Difference/LZ on the residual values/ arbitrary loss functions etc. \r\n\r\n##\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}

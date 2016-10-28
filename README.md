@@ -2,6 +2,7 @@
 This is a public blog, intended to be used only by myself
 
 # TODO
+## 
 1. BWT
 2. Theoretical Justification for BWT
 3. Read about the Channel capacity achieving codes (Modern coding theory lectures)
@@ -23,4 +24,4 @@ Experiment on the Video Compression part (Neural Networks)
 2. Experiment with the Google compressor
 3. Difference/LZ on the residual values/ arbitrary loss functions etc. 
 
-
+##
